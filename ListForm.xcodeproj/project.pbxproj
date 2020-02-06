@@ -13,6 +13,7 @@
 		C2099D4523DB46B600F2B76D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2099D4423DB46B600F2B76D /* Assets.xcassets */; };
 		C2099D4823DB46B600F2B76D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2099D4723DB46B600F2B76D /* Preview Assets.xcassets */; };
 		C2099D4B23DB46B600F2B76D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2099D4923DB46B600F2B76D /* LaunchScreen.storyboard */; };
+		C2A1462823DF161C000A28F3 /* AlbumDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A1462723DF161C000A28F3 /* AlbumDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C2099D4723DB46B600F2B76D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C2099D4A23DB46B600F2B76D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2099D4C23DB46B600F2B76D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2A1462723DF161C000A28F3 /* AlbumDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C2099D3E23DB46B500F2B76D /* AppDelegate.swift */,
 				C2099D4023DB46B500F2B76D /* SceneDelegate.swift */,
 				C2099D4223DB46B500F2B76D /* ContentView.swift */,
+				C2A1462723DF161C000A28F3 /* AlbumDetailView.swift */,
 				C2099D4423DB46B600F2B76D /* Assets.xcassets */,
 				C2099D4923DB46B600F2B76D /* LaunchScreen.storyboard */,
 				C2099D4C23DB46B600F2B76D /* Info.plist */,
@@ -149,6 +152,7 @@
 				C2099D3F23DB46B500F2B76D /* AppDelegate.swift in Sources */,
 				C2099D4123DB46B500F2B76D /* SceneDelegate.swift in Sources */,
 				C2099D4323DB46B500F2B76D /* ContentView.swift in Sources */,
+				C2A1462823DF161C000A28F3 /* AlbumDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
